@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sou7322/typescript-deep-dive/issues"
   },
-  "homepage": "https://github.com/sou7322/typescript-deep-dive#readme"
+  "homepage": "https://github.com/sou7322/typescript-deep-dive#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
 }
